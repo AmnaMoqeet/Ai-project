@@ -1,0 +1,10 @@
+Ghost Maze is a Python-based AI board game inspired by Pac-Man.
+It features ghosts using A* and BFS algorithms for intelligent pathfinding,
+dynamic walls that shift every 5 seconds, and collectible power-ups and
+traps that affect gameplay. Built with Pygame, it offers a real-time AI challenge.
+
+Installation:
+pip install pygame pillow
+
+Run the Game:
+python pacman.py
